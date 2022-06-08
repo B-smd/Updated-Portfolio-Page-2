@@ -49,10 +49,10 @@ a {
     text-decoration: none;
 }
 a:link {
-    color: #F68979;
+    color: #eb2d10;
 }
 a:visited {
-    color: #FF944C;
+    color: #e31829;
 }
 a:hover, a:active, a:focus {
     color: #7F3300;
