@@ -52,7 +52,7 @@ a:link {
     color: #eb2d10;
 }
 a:visited {
-    color: #e31829;
+    color: blue;
 }
 a:hover, a:active, a:focus {
     color: #7F3300;
@@ -134,13 +134,6 @@ main, aside {
     font-family: source-sans-pro;
     font-style: normal;
 }
-/* figure {
-width: 400px;
-height: 100px;
-border: 1px solid #c3c3c3;
-display: flex;
-justify-content: flex-start;
-} */
 figure {
     width: 900px;
     max-width: 100%;
