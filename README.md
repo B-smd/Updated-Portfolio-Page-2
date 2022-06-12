@@ -1,6 +1,5 @@
 # Updated-Portfolio-Page-2
 
-#  Professional-README-Generator
   ![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
@@ -30,7 +29,7 @@ This Updated-Portfolio-Page-2, I have made an updated a lot of things. If you wa
 - From the navbar homepage you can click Desing1, Design2, Design3 and Video and will go to the page 2,3 & 4. But if you using mobile phone, you have to click menu to get them.
 - When you visit the page, you have option to go back, go foward or back to the homepage, there are buttons on the bottom of the page.
 - Under Projects are my latest works, you can click Updated Portfolio Page 1, Project 2 Password Manager, Professional README Generator, Team Profile Generator, Note Taker, Employee Tracker, E Commerce Backend & Tech Blog and go to the link's destination.
-- If you want to view my previous work, you can click on Updated Portfolio Page 1.
+- If you want to view my previous work, you can click on Updated Portfolio Page 1 to view it.
 - Under About Me you can click the blue text and go the link's detination.
 - You can contact Me use Email or Linkedin and visit my github, all will go the the link's destination
 
