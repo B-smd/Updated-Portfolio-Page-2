@@ -255,11 +255,11 @@ footer {
 	float: left;
 	width: 390px;
 	height: 550px;
-	margin: 0 0 0 25px;
+	margin: 0 0 0 10px;
 	padding: 0;
 }
 .column div:first-child {
-	margin-left: 0;
+	margin-left: 10px;
 }
 figure:hover+span {
 	bottom: -36px;
@@ -268,7 +268,7 @@ figure:hover+span {
 
 .hover03 figure img {
     width:100%;
-      height:100%;
+    height:100%;
 }
 
 
